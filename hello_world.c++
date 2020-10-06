@@ -3,9 +3,10 @@ using namespace std;
   
 int main() 
 { 
+  char c="juet";
     for (int i = 1; i <= 10; i++) 
     { 
-        cout << "Hello World"<<endl; 
+        cout << c<<endl; 
     } 
   
     return 0; 
